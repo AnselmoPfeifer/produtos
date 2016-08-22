@@ -8,10 +8,12 @@ import java.util.List;
 
 import javax.faces.bean.ApplicationScoped;
 import javax.faces.bean.ManagedBean;
+import javax.faces.bean.SessionScoped;
 
 import com.anselmopfeifer.controller.Produto;
 
 @ManagedBean
+@SessionScoped
 public class GestaoProdutosBean {
 
     private List<Produto> produtos;
