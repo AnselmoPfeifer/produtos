@@ -1,3 +1,5 @@
-#11-PprojetoWeb-Componentes-Painel
-	Projeto web com Usando Maven, Componentes JSF de Panel Grid e Mensagens.
-	Com css externo e personalização dos campos e botão do formulario usando o css. 
+# Formulario cadastro de produtos
+
+- JSF com materializecss
+	Feito para testes de balanceamnto de carga  no seguinte cenário:
+	Nginx com loadbalancer + 3 tomcat em Cluster
