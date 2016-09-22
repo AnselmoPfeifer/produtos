@@ -5,7 +5,7 @@
 	Nginx com loadbalancer + 3 tomcat em Cluster
 
 
-	<distributable/>
-	<session-config>
-		<session-timeout>30</session-timeout>
-	</session-config>
+- <distributable/>
+- <session-config>
+- <session-timeout>30</session-timeout>
+- </session-config>
